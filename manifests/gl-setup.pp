@@ -24,7 +24,7 @@
 #       ...
 #   }
 #   class {
-#     "gl-setup":
+#     "gitolite::gl-setup":
 #       user    => 'admin',
 #       homedir => '/home/admin',
 #       userkeycontent = 'ssh-rsa X76287hjashd873629o...',
